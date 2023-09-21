@@ -92,3 +92,6 @@ docker run -p 5000:5000 <image_name>
 
 This will start the Flask server in a Docker container on **`localhost:5000`**. Navigate to [http://localhost:5000/](http://localhost:5000/) on your browser to access the application.
 
+![image](https://github.com/GudditiOrg/Python-Monitoring-Application/assets/87116202/10442739-cb2b-4a5e-bcc9-3c2c08925f8d)
+
+
